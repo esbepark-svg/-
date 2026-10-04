@@ -1,0 +1,6 @@
+{
+  "name": "GlobalStack - 글로벌 웹서비스 런칭 & 수익화 마스터 OS",
+  "description": "글로벌 웹서비스 기획부터 MVP 개발, 클라우드 배포, Stripe/Lemon Squeezy 결제 연동, 마케팅 및 첫 1,000달러 MRR 달성까지의 인터랙티브 로드맵과 실행 툴킷",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
